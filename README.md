@@ -49,4 +49,4 @@ To plot the joint torques, run in an other terminal:
 rqt
 ```
 then go in `Plugins->Visualization->Plot` and add `/effort_controller/commands/data[0]` up to `/effort_controller/commands/data[6]`.
-ha il menu contestuale
+
